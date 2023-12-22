@@ -56,4 +56,4 @@ Feature title & subtitle: It shows the main sentences of the website.
 
 ## Screenshots
 
-![App Screenshot](/public/images/readme/14.jpg)
+![App Screenshot](C:\Users\imthe\Pictures\seee)
