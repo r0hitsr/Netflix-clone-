@@ -50,5 +50,10 @@ Feature title & subtitle: It shows the main sentences of the website.
 
 2) Optform: It's a text input field and a button, It redirects you to the sign-up page once you click on the button.
 
-3) Jumbotron: This section contains some images and paragraphs beside it, showing the advantages of Netflix. The data of this Jumbotron came from jumbo.json file. 
+3) Jumbotron: This section contains some images and paragraphs beside it, showing the advantages of Netflix. The data of this Jumbotron came from jumbo.json file.
 
+ 
+
+## Screenshots
+
+![App Screenshot](/public/images/readme/14.jpg)
